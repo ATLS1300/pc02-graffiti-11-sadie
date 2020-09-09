@@ -70,6 +70,8 @@ pensize(20)
 forward(300)
 up()
 
+done()
+
 
 
 
